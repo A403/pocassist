@@ -114,7 +114,7 @@ http {
 + 安装Mysql数据
 步骤略过，选择server only,然后一路next
 + 创建并导入数据库
-mysql -uroot -ppassword
+mysql -uroot -ppassword  
 create databases pocassist;
 source D:\pocassist.sql
 + 修改配置文件
