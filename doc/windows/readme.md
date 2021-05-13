@@ -126,7 +126,7 @@ source D:\pocassist.sql
   database: "pocassist"
   timeout: "3s"
   ```
-  + 启动Nginx
-  cd nginx
-  start nginx.exe
+  + 启动Nginx  
+  cd nginx  
+  start nginx.exe  
 + enjoy
